@@ -13,9 +13,6 @@ module.exports = class JSON_Handler {
     return this._data;
   }
 
-  /**
-   * load data from db.json file.
-   */
   async init() {
     try {
       if (fs.existsSync(this._filePath)) {
