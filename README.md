@@ -12,7 +12,6 @@ Follow [this link](https://note-taker-apps.herokuapp.com/) to view the applicati
 
 <img src="./images/Take-notes.PNG" alt=" Note Taker screenshot"/>
 <img src="./images/add-new.PNG" alt=" Note Taker screenshot"/>
-<img src="./images/notes_page.PNG" alt=" Note Taker screenshot"/>
 <img src="./images/view-notes.PNG" alt=" Note Taker screenshot"/>
 
 ## Getting Started
