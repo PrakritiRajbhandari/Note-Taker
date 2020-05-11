@@ -9,10 +9,6 @@ module.exports = class JSON_Handler {
     this._data = [];
   }
 
-  /**
-   * Return DB's data
-   * @return array
-   */
   getData() {
     return this._data;
   }

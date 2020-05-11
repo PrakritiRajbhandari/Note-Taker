@@ -1,15 +1,21 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A server application to allow user to save their notes.",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "12.14.0",
+    "npm": "6.13.4"
+  },
   "dependencies": {
     "express": "^4.16.4",
+    "mysql": "^2.16.0",
     "shortid": "^2.2.15"
   }
 }
