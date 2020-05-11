@@ -4,7 +4,7 @@ This application that can be used to write, save, and delete notes. This applica
 
 ## Link to Application
 
-Follow [this link](https://yours-kkuznets.github.io/Coinchange-Crypto-Tracker/) to view the application.
+Follow [this link](https://note-taker-apps.herokuapp.com/) to view the application.
 
 ## Screenshots
 
